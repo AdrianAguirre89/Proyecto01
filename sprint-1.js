@@ -26,7 +26,7 @@ class productManager{
         if(this.id){
             console.log(code)
         }else{
-          console.log("Not found")  
+          console.log ("not found")  
         };
         
     }
